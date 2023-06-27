@@ -1,2 +1,2 @@
 89dbde1b-5fd1-4e18-82c9-294160d9a05f n@fedora:~/remote_store/TEST-git_annex timestamp=1687857173.236038215s
-b178ac04-361e-4e19-9d1b-c4305f70a39d remote remote2 type=directory encryption=pubkey keyid=F3FDA88A14023800DCC0FC70F38C2130700DDAFF timestamp=1687909252.348337162s
+b178ac04-361e-4e19-9d1b-c4305f70a39d remote remote2 type=directory encryption=pubkey keyid=F3FDA88A14023800DCC0FC70F38C2130700DDAFF directory=/home/n/remote_store2 timestamp=1687909630.443917433s
